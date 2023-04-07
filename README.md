@@ -47,5 +47,5 @@ https://img.shields.io/badge/-Nprophet-red)
 ## Results
 [(Back to top)](#Table-of-contents)
 
-API link : https://share.streamlit.io/ismael616/stock-predictor/main/app.py
+API link :https://ismael616-stock-predictor-app-4rh757.streamlit.app/
 
