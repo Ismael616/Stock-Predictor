@@ -11,7 +11,7 @@
 - [Objective](#Objective)
 - [Overview](#Overview)
 - [Technologies Used ](#technologies-used)
-- [Results](#Rresults)
+- [Results](#Results)
 
 ## Objective
 [(Back to top)](#Table-of-contents)
