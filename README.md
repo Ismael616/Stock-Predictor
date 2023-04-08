@@ -32,7 +32,7 @@ The objective of the application Is to provide an easy-to use and quick app for 
 
     
  * Modeling :
-   This Part allow thhe user to predict future closing prices using either NProphet or LSTM  
+   This Part allow the user to predict future closing prices using either NProphet or LSTM  
  
 ## Technologies used
 [(Back to top)](#Table-of-contents)
