@@ -27,7 +27,7 @@ The objective of the application Is to provide an easy-to use and quick app for 
 
 
  * Exploration :
-    This section is made for EDA ,                          visualization ,Descriptive stats and some statistics test to know better the data your data.
+    This section is made for EDA ,                          visualization ,Descriptive stats and some statistics test to know better  your data.
     There is also a "Comparison" section to allow you to compare as much as 4 stocks Closing price along with their distribitions 
 
     
