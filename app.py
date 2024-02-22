@@ -119,7 +119,7 @@ def plot_seasonal_decompose(result:DecomposeResult, dates:pd.Series=None, title:
 
 
 ## Data Exploration
-end=datetime.date.today()
+end=datetime.date.today() - datetime.timedelta(days = 2)
 d = st.date_input(
     "Select The starting date of your data",value=datetime.date(2021, 1, 1),min_value=datetime.date(2016, 1, 1),max_value=end-datetime.timedelta(days=100))
 start=d
